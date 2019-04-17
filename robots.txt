@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahmeamohg.wearehatch.com/sitemap.xml
